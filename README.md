@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @surya0904shankar
 - 👀 I’m interested in ...Programming,tech events,internships,networking and connecting with people
 - 🌱 I’m currently learning ...C++,DSA and PYTHON
-- 💞️ I’m looking to collaborate on ...C++ and HTML
+- 💞️ I’m looking to collaborate on ...C++ and Python
 - 📫 How to reach me ...suryas0904@gmail.com
 
 <!---
